@@ -103,8 +103,3 @@ pip install -r requirements.txt
   installed in the provided runtime. Install it manually to run the
   app.
 
-## Credits
-
-This project was requested as a demonstration of end‑to‑end data
-science workflow, including scraping, machine learning, and web
-application development.
