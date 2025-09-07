@@ -97,8 +97,7 @@ pip install -r requirements.txt
 
 * The data is synthetic and does not reflect real book prices or
   descriptions. It is intended purely for educational purposes.
-* Due to the restricted environment, we could not scrape external
-  websites directly; instead, we generated HTML pages locally.
+
 * The Streamlit app code is included, but Streamlit itself may not be
   installed in the provided runtime. Install it manually to run the
   app.
